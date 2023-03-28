@@ -1,0 +1,10 @@
+*
+!.env.example
+!.gitignore
+!docker-compose.yml
+!frontend
+!backend
+!frontend/Dockerfile
+!backend/Dockerfile
+!backend/requirements.txt
+!README.md
