@@ -3,7 +3,6 @@
 This repository provides a starter template for a full-stack web application built using Django and React, containerized with Docker. It includes a pre-configured development environment and instructions to set up, create, and run a new Django backend and a React frontend project with Docker Compose.
 
 ## Key Features
-
 1. **Backend**: A Django project with a PostgreSQL database, using Docker for an isolated development environment.
 2. **Frontend**: A React project created with Create React App, also containerized with Docker.
 3. **Docker Compose**: Simplifies the process of building and running multiple containers, making it easy to manage the application's services.
